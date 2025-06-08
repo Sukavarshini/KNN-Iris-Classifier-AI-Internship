@@ -1,5 +1,5 @@
 # KNN-Iris-Classifier-AI-Internship
-# 🌼 KNN Iris Classifier – AI & ML Internship Task 6
+# 🌼 KNN Iris Classifier – AI & ML Internship Task 
 
 This project implements the **K-Nearest Neighbors (KNN)** classification algorithm using the **Iris dataset**, submitted as part of **Task 6** for the AI & ML Internship. It includes accuracy comparison across K values, confusion matrix evaluation, and 2D decision boundary visualization.
 
