@@ -101,6 +101,6 @@ Yes. It predicts the majority class among the K nearest neighbors, even for more
 
 This task helped reinforce the importance of data preprocessing in distance-based algorithms and provided visual insights into how KNN performs on simple datasets like Iris.
 
-> 🔁 Feel free to clone this repository and experiment with other datasets or distance metrics!
+
 
 ---
